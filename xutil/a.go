@@ -3,5 +3,5 @@ package xutil
 import "fmt"
 
 func A() {
-	fmt.Println("1.7.0")
+	fmt.Println("2.0.1")
 }
