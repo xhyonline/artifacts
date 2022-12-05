@@ -3,5 +3,5 @@ package xutil
 import "fmt"
 
 func A() {
-	fmt.Println("v2")
+	fmt.Println("1.6")
 }

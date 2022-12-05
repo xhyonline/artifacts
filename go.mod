@@ -1,3 +1,3 @@
-module github.com/xhyonline/artifacts/v2
+module github.com/xhyonline/artifacts
 
 go 1.18
